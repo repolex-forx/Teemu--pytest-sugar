@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Teemu/pytest-sugar/commit/54ec9991e1e6e57a6fa4d70e5094797f6dc72f11",
       "git:hexsha": "54ec9991e1e6e57a6fa4d70e5094797f6dc72f11",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:57:03.356717+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Teemu/pytest-sugar/commit/780bef0298fb9abaa6f3816e93f3fae0de8b7f6e",
