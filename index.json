@@ -1,0 +1,11 @@
+{
+  "org": "Teemu",
+  "repo": "pytest-sugar",
+  "versions": [
+    {
+      "commit": "54ec9991e1e6e57a6fa4d70e5094797f6dc72f11",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:57:03.357357+00:00"
+    }
+  ]
+}
