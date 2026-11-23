@@ -218,7 +218,9 @@
           "githubRepo": "cpython",
           "source": "stdlib:python"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/81335030b95741d90ae489f9216759c009854fa9/chunk-001.nq.gz",
+      "dep": "dep/81335030b95741d90ae489f9216759c009854fa9.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
